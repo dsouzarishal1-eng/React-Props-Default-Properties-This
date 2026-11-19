@@ -1,0 +1,64 @@
+
+#root {
+  width: 100%;
+}
+
+.container {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 25px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #2563eb;
+}
+
+.subtitle {
+  text-align: center;
+  color: #555;
+  margin-bottom: 35px;
+}
+
+section {
+  margin: 25px 0;
+  padding: 20px;
+  background: #f1f5f9;
+  border-radius: 10px;
+}
+
+section h2 {
+  color: #1e40af;
+}
+
+.example-card {
+  background: white;
+  padding: 15px;
+  margin: 12px 0;
+  border-radius: 8px;
+  border: 1px solid #cbd5e1;
+}
+
+.example-card h3 {
+  color: #0f172a;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+footer {
+  text-align: center;
+  margin-top: 35px;
+  color: #64748b;
+}
